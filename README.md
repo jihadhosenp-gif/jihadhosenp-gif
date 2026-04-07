@@ -1,5 +1,5 @@
 
-![WhatsApp Image 2026-04-08 at 1 05 47 AM](https://github.com/user-attachments/assets/31cfc46c-e919-403a-a091-75720975c9cd)
+![WhatsApp Image 2026-04-08 at 1 20 09 AM](https://github.com/user-attachments/assets/f34f64a6-2b70-4297-9e5d-d51951507c3c)
 
 <h1 align="center">Hi 👋, I'm Jihad Hosen</h1>
 <h3 align="center">🌱 I’m currently learning Advanced React & Backend (Node.js)</h3>
