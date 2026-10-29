@@ -79,11 +79,12 @@ All repositories: [github.com/jihadhosenp-gif](https://github.com/jihadhosenp-gi
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=jihadhosenp-gif&show_icons=true&hide_border=true&bg_color=0D1321&title_color=7C5CFF&icon_color=00E5FF&text_color=F5F7FF" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadhosenp-gif&layout=compact&hide_border=true&bg_color=0D1321&title_color=7C5CFF&text_color=F5F7FF" alt="Top languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadhosenp-gif&background=0D1321&ring=7C5CFF&fire=B8FF6A&currStreakLabel=00E5FF&sideLabels=9AA6BD&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=9AA6BD&stroke=1B2438&hide_border=true" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=jihadhosenp-gif&theme=transparent&background=0D1321&ring=7C5CFF&fire=B8FF6A&currStreakLabel=00E5FF&sideLabels=9AA6BD&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=9AA6BD&stroke=1B2438&hide_border=true" alt="Contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jihadhosenp-gif&bg_color=070A12&color=9AA6BD&line=7C5CFF&point=00E5FF&area=true&area_color=7C5CFF&hide_border=true" alt="Contribution graph" width="100%" />
+<img src="https://ghchart.rshah.org/7C5CFF/jihadhosenp-gif" alt="Contribution chart" width="100%" />
 
 </div>
+
 
 ## Fun corner
 
@@ -129,4 +130,6 @@ All repositories: [github.com/jihadhosenp-gif](https://github.com/jihadhosenp-gi
 <a href="https://discord.gg/jihad004410"><img src="https://img.shields.io/badge/Discord-0D1321?style=for-the-badge&logo=discord&logoColor=B8FF6A" alt="Discord" /></a>
 <a href="mailto:jihadhosenp@gmail.com"><img src="https://img.shields.io/badge/Email-0D1321?style=for-the-badge&logo=gmail&logoColor=F5F7FF" alt="Email" /></a>
 </p>
+
+<p> Jin <p>
 
