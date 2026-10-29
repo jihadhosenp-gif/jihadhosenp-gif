@@ -130,4 +130,3 @@ All repositories: [github.com/jihadhosenp-gif](https://github.com/jihadhosenp-gi
 <a href="mailto:jihadhosenp@gmail.com"><img src="https://img.shields.io/badge/Email-0D1321?style=for-the-badge&logo=gmail&logoColor=F5F7FF" alt="Email" /></a>
 </p>
 
-<img src="assets/footer.svg" alt="Jihad Hosen" width="100%" />
