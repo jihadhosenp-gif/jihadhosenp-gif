@@ -1,39 +1,94 @@
+<div align="center">
 
-![WhatsApp Image 2026-04-08 at 1 20 09 AM](https://github.com/user-attachments/assets/f34f64a6-2b70-4297-9e5d-d51951507c3c)
+<img src="assets/hero.svg" alt="Jihad Hosen, Full-Stack Developer" width="100%" />
 
-<h1 align="center">Hi 👋, I'm Jihad Hosen</h1>
-<h3 align="center">🌱 I’m currently learning Advanced React & Backend (Node.js)</h3>
+<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jihadhosenp-gif&label=Profile%20views&color=0e75b6&style=flat" alt="jihadhosenp-gif" /> </p>
+<a href="https://github.com/jihadhosenp-gif"><img src="https://komarev.com/ghpvc/?username=jihadhosenp-gif&label=Profile%20views&color=7C5CFF&style=flat" alt="Profile views" /></a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jihadhosenp-gif" alt="jihadhosenp-gif" /></a> </p>
+</div>
 
-- 🌱 I’m currently learning **Advanced React & Backend (Node.js)**
+<!-- Optional photo: add your own image URL here.
+<p align="center"><img src="YOUR_IMAGE_URL" width="120" alt="Jihad Hosen" /></p> -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/jihadhosenp-gif](https://github.com/jihadhosenp-gif)
+## About
 
-- 📝 I regularly write articles on [Coming soon .....](Coming soon .....)
+I build web interfaces and the servers behind them. Right now I'm learning **advanced React** and **backend development with Node.js**, and I'm turning what I learn into projects.
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React, Tailwind CSS**
+Ask me about HTML, CSS, JavaScript, React and Tailwind CSS.
 
-- 📫 How to reach me **jihadhosenp@gmail.com**
+Fun fact: coding is my passion, and I enjoy learning new tech every day.
 
-- 📄 Know about my experiences [📄 Fresher | Learning & Building Projects](📄 Fresher | Learning & Building Projects)
+## Skill universe
 
-- ⚡ Fun fact **⚡ Coding is my passion & I enjoy learning new tech every day**
+<div align="center">
+<img src="assets/skill-universe.svg" alt="Skill universe: Frontend, Backend, Database, Tools and Creative tech orbiting a central core. Hollow nodes are skills I am still learning." width="100%" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jihad-hosen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jihad-hosen" height="30" width="40" /></a>
-<a href="https://fb.com/jihadhussin85" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jihadhussin85" height="30" width="40" /></a>
-<a href="https://discord.gg/jihad004410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jihad004410" height="30" width="40" /></a>
+<details>
+<summary>Text version of the skill universe</summary>
+
+| Orbit | Skills | Status |
+| --- | --- | --- |
+| Frontend | HTML, CSS, JavaScript, React.js, Tailwind CSS | Working knowledge |
+| Frontend | Next.js, TypeScript | Learning |
+| Backend | Node.js, Express.js, REST APIs, authentication, server-side development | Learning |
+| Database | MongoDB | Learning |
+| Tools | Git, GitHub, VS Code, npm, Vercel | Working knowledge |
+| Creative tech | Framer Motion, GSAP, Three.js, React Three Fiber | Learning |
+
+</details>
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="38" height="38" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## Journey
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jihadhosenp-gif&show_icons=true&locale=en&layout=compact" alt="jihadhosenp-gif" /></p>
+- **Foundations:** HTML, CSS and JavaScript.
+- **Building interfaces:** React and Tailwind CSS.
+- **Now:** advanced React and backend development with Node.js.
+- **Next:** 3D and motion on the web with Three.js, React Three Fiber, Framer Motion and GSAP.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jihadhosenp-gif&show_icons=true&locale=en" alt="jihadhosenp-gif" /></p>
+## Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jihadhosenp-gif&" alt="jihadhosenp-gif" /></p>
+<!-- TODO: replace each row with a real repository and, if it exists, a live demo. -->
+
+| Project | What it is | Stack | Links |
+| --- | --- | --- | --- |
+| _Project name_ | One sentence on what it does | React, Tailwind CSS | [Code](https://github.com/jihadhosenp-gif/REPO_NAME) / [Demo](https://YOUR_DEMO_URL) |
+| _Project name_ | One sentence on what it does | Node.js, MongoDB | [Code](https://github.com/jihadhosenp-gif/REPO_NAME) |
+
+All repositories: [github.com/jihadhosenp-gif](https://github.com/jihadhosenp-gif?tab=repositories)
+
+## GitHub activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=jihadhosenp-gif&show_icons=true&hide_border=true&bg_color=0D1321&title_color=7C5CFF&icon_color=00E5FF&text_color=F5F7FF" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadhosenp-gif&layout=compact&hide_border=true&bg_color=0D1321&title_color=7C5CFF&text_color=F5F7FF" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jihadhosenp-gif&background=0D1321&ring=7C5CFF&fire=B8FF6A&currStreakLabel=00E5FF&sideLabels=9AA6BD&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=9AA6BD&stroke=1B2438&hide_border=true" alt="Contribution streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jihadhosenp-gif&bg_color=070A12&color=9AA6BD&line=7C5CFF&point=00E5FF&area=true&area_color=7C5CFF&hide_border=true" alt="Contribution graph" width="100%" />
+
+</div>
+
+## Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/jihad-hosen"><img src="https://img.shields.io/badge/LinkedIn-0D1321?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+<a href="https://fb.com/jihadhussin85"><img src="https://img.shields.io/badge/Facebook-0D1321?style=for-the-badge&logo=facebook&logoColor=7C5CFF" alt="Facebook" /></a>
+<a href="https://discord.gg/jihad004410"><img src="https://img.shields.io/badge/Discord-0D1321?style=for-the-badge&logo=discord&logoColor=B8FF6A" alt="Discord" /></a>
+<a href="mailto:jihadhosenp@gmail.com"><img src="https://img.shields.io/badge/Email-0D1321?style=for-the-badge&logo=gmail&logoColor=F5F7FF" alt="Email" /></a>
+</p>
+
+<img src="assets/footer.svg" alt="Jihad Hosen" width="100%" />
