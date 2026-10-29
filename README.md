@@ -1,28 +1,17 @@
 <div align="center">
 
-# <img src="assets/hero.svg" alt="Jihad Hosen — Developer identity illustration" width="100%"/>
+<img src="assets/hero.svg" alt="Jihad Hosen, Full-Stack Developer" width="100%" />
 
-<a href="https://github.com/jihadhosenp-gif"><img src="https://komarev.com/ghpvc/?username=jihadhosenp-gif&label=Profile%20views&color=7C5CFF&style=flat-square" alt="Profile views"/></a>
+<br/>
 
-<br/><br/>
-
-| Channel | Link |
-| --- | --- |
-| <a href="mailto:jihadhosenp@gmail.com"><img src="https://img.shields.io/badge/Ask%20me-anything-0D1321?style=flat-square&logo=gmail&logoColor=00E5FF&labelColor=0D1321" alt="Email"/></a> | <a href="https://discord.gg/jihad004410"><img src="https://img.shields.io/badge/Discord-0D1321?style=flat-square&logo=discord&logoColor=B8FF6A" alt="Discord"/></a> |
-| <a href="https://linkedin.com/in/jihad-hosen"><img src="https://img.shields.io/badge/LinkedIn-0D1321?style=flat-square&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a> | <a href="https://fb.com/jihadhussin85"><img src="https://img.shields.io/badge/Facebook-0D1321?style=flat-square&logo=facebook&logoColor=7C5CFF" alt="Facebook"/></a> |
+<a href="https://github.com/jihadhosenp-gif"><img src="https://komarev.com/ghpvc/?username=jihadhosenp-gif&label=Profile%20views&color=7C5CFF&style=flat" alt="Profile views" /></a>
 
 </div>
 
-<br/>
+<!-- Optional photo: add your own image URL here.
+<p align="center"><img src="YOUR_IMAGE_URL" width="120" alt="Jihad Hosen" /></p> -->
 
-> **Crafting clean interfaces — and the systems behind them.**
-> Currently levelling up in advanced React and backend development with Node.js, turning every lesson into something buildable.
-
-<br/>
-
----
-
-## 🚀 About
+## About
 
 I build web interfaces and the servers behind them. Right now I'm learning **advanced React** and **backend development with Node.js**, and I'm turning what I learn into projects.
 
@@ -48,14 +37,7 @@ Ask me about HTML, CSS, JavaScript, React and Tailwind CSS.
 ### 📊 Current learning
 
 <div align="center">
-
-| Area | Status |
-| --- | --- |
-| Advanced React | 🔄 Learning |
-| Node.js backend | 🔄 Learning |
-| TypeScript | 🔄 Learning |
-| Next.js | 🔄 Learning |
-
+<img src="assets/skill-universe.svg" alt="Skill universe: Frontend, Backend, Database, Tools and Creative tech orbiting a central core. Hollow nodes are skills I am still learning." width="100%" />
 </div>
 
 <br/>
@@ -129,43 +111,26 @@ Coding is my passion, and I enjoy learning new tech every day.
 
 </details>
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" height="38" />&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="38" height="38" />
+</p>
 
-<details>
-<summary>📋 Text version of the skill universe</summary>
+## Journey
 
-<br/>
+- **Foundations:** HTML, CSS and JavaScript.
+- **Building interfaces:** React and Tailwind CSS.
+- **Now:** advanced React and backend development with Node.js.
+- **Next:** 3D and motion on the web with Three.js, React Three Fiber, Framer Motion and GSAP.
 
-## 🗺️ Journey
-
-<div align="center">
-
-```text
-       ●
-      / \
-     /   \
-    /     \
-   ●       ●
-  / \     / \
- /   ●───●   \
-/  / \     \  \
-●──●   ●   ──●──●
-  HTML   CSS   JS
-        │
-        ▼
-    ● Interfaces ─── React · Tailwind CSS
-                     │
-                     ▼
-                ● Now ──────── Advanced React · Node.js backend
-                                   │
-                                   ▼
-                              ● Next ────── Three.js · React Three Fiber · Framer Motion · GSAP
-```
-
-</div>
-
-<br/>
-
-## 🛠️ Projects
+## Projects
 
 <!-- TODO: replace each row with a real repository and, if it exists, a live demo. -->
 
@@ -206,11 +171,10 @@ Coding is my passion, and I enjoy learning new tech every day.
 ## 👋 Connect
 
 <p align="left">
-<a href="https://linkedin.com/in/jihad-hosen"><img src="https://img.shields.io/badge/LinkedIn-0D1321?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
-<a href="https://fb.com/jihadhussin85"><img src="https://img.shields.io/badge/Facebook-0D1321?style=for-the-badge&logo=facebook&logoColor=7C5CFF" alt="Facebook"/></a>
-<a href="https://discord.gg/jihad004410"><img src="https://img.shields.io/badge/Discord-0D1321?style=flat&logo=discord&logoColor=B8FF6A" alt="Discord"/></a>
-<a href="mailto:jihadhosenp@gmail.com"><img src="https://img.shields.io/badge/Email-0D1321?style=flat&logo=gmail&logoColor=F5F7FF" alt="Email"/></a>
+<a href="https://linkedin.com/in/jihad-hosen"><img src="https://img.shields.io/badge/LinkedIn-0D1321?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn" /></a>
+<a href="https://fb.com/jihadhussin85"><img src="https://img.shields.io/badge/Facebook-0D1321?style=for-the-badge&logo=facebook&logoColor=7C5CFF" alt="Facebook" /></a>
+<a href="https://discord.gg/jihad004410"><img src="https://img.shields.io/badge/Discord-0D1321?style=for-the-badge&logo=discord&logoColor=B8FF6A" alt="Discord" /></a>
+<a href="mailto:jihadhosenp@gmail.com"><img src="https://img.shields.io/badge/Email-0D1321?style=for-the-badge&logo=gmail&logoColor=F5F7FF" alt="Email" /></a>
 </p>
 
-<img src="assets/footer.svg" alt="Jihad Hosen — signature footer" width="100%"/>
-</details>
+<img src="assets/footer.svg" alt="Jihad Hosen" width="100%" />
