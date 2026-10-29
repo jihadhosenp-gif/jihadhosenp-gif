@@ -4,130 +4,94 @@ Source of truth for the portfolio site. Same palette as the GitHub profile so bo
 
 ## Identity
 
-| Field | Value |
-| --- | --- |
-| Name | Jihad Hosen |
-| Role | Full-Stack Developer |
-| Tagline | Interfaces that respond. Backends that hold. |
-| Focus now | advanced React, backend development with Node.js |
-| Contact | jihadhosenp@gmail.com |
-| Links | [GitHub](https://github.com/jihadhosenp-gif), [LinkedIn](https://linkedin.com/in/jihad-hosen), [Facebook](https://fb.com/jihadhussin85), [Discord](https://discord.gg/jihad004410) |
+- **Name:** Jihad Hosen
+- **Role:** Full-Stack Developer (fresher, learning and building projects)
+- **Tagline:** Interfaces that respond. Backends that hold.
+- **Focus now:** advanced React, backend development with Node.js
+- **Contact:** jihadhosenp@gmail.com
+- **Links:** [GitHub](https://github.com/jihadhosenp-gif), [LinkedIn](https://linkedin.com/in/jihad-hosen), [Facebook](https://fb.com/jihadhussin85), [Discord](https://discord.gg/jihad004410)
 
 ## Design tokens
 
-| Token | Value | Role |
+| Token | Value |
+| --- | --- |
+| Background | `#070A12` |
+| Secondary | `#0D1321` |
+| Primary | `#7C5CFF` |
+| Accent | `#00E5FF` |
+| Highlight | `#B8FF6A` |
+| Text | `#F5F7FF` |
+| Muted | `#9AA6BD` |
+
+Add these to `tailwind.config` under `theme.extend.colors` (for example `ink`, `panel`, `violet`, `cyan`, `lime`) and replace the hex values in the components if you prefer tokens.
+
+## Skills
+
+Defined once in `data/skills.ts`. Filled nodes are working knowledge, hollow wireframe nodes are skills still being learned. There are no percentages or ratings.
+
+| Orbit | Geometry | Skills |
 | --- | --- | --- |
-| Background | `#070A12` | deep ink |
-| Secondary | `#0D1321` | panel / surface |
-| Primary | `#7C5CFF` | violet |
-| Accent | `#00E5FF` | cyan |
-| Highlight | `#B8FF6A` | lime |
-| Text | `#F5F7FF` | body text |
-| Muted | `#9AA6BD` | secondary text |
-
-Add these to `tailwind.config.ts` under `theme.extend.colors`:
-
-```ts
-extend: {
-  colors: {
-    ink: '#070A12',
-    panel: '#0D1321',
-    violet: '#7C5CFF',
-    cyan: '#00E5FF',
-    lime: '#B8FF6A',
-    text: '#F5F7FF',
-    muted: '#9AA6BD',
-  },
-},
-```
-
-## Stack
-
-- **Framework:** Next.js 14 (App Router), TypeScript
-- **Styling:** Tailwind CSS
-- **3D:** `@react-three/fiber`, `@react-three/drei`, `three`
-- **Motion:** `framer-motion`
-- **Icons:** heroicons / devicons via SVG
-- **Deploy:** Vercel
-
-Install:
-
-```bash
-cd portfolio
-npm install three @react-three/fiber @react-three/drei framer-motion
-npm install -D @types/three tailwindcss postcss autopersist
-```
-
-## Data model
-
-Defined once in `data/skills.ts`. Filled nodes are working knowledge; hollow wireframe nodes are skills still being learned. No percentages or ratings.
-
-```
-data/skills.ts        -> CATEGORIES with orbits, geometry, skills
-components/Hero.tsx   -> cinematic 3D hero geometry
-components/SkillUniverse.tsx -> interactive 3D skill constellation
-components/ProjectGallery.tsx -> original project gallery
-components/Journey.tsx   -> developer journey
-components/Contact.tsx   -> contact section
-```
+| Frontend | Icosahedron | HTML, CSS, JavaScript, React.js, Tailwind CSS, Next.js (learning), TypeScript (learning) |
+| Backend | Cube | Node.js, Express.js, REST APIs, authentication, server-side development (all learning) |
+| Database | Hexagonal prism | MongoDB (learning) |
+| Tools | Tetrahedron | Git, GitHub, VS Code, npm, Vercel |
+| Creative tech | Octahedron | Framer Motion, GSAP, Three.js, React Three Fiber (all learning) |
 
 ## Sections
 
-1. **Hero:** name, role, tagline, link to projects. Custom 3D hero geometry (rotating wireframe core), floating symbols.
-2. **Skill universe:** `SkillUniverseLoader`. Orbit selection, tap/hover a node to reveal name + description, camera glide between orbits, pointer depth, touch-friendly drag, reduced-motion support, list fallback.
-3. **Projects:** gallery of real repositories. Placeholder rows to fill with real repo names, descriptions, demo URLs.
-4. **Journey:** foundations HTML/CSS/JS, then React/Tailwind, now advanced React + Node.js, next 3D/motion.
-5. **Contact:** email + social links.
+1. **Hero:** name, role, tagline, link to projects. *(Not built yet: custom 3D hero geometry.)*
+2. **Skill universe:** `SkillUniverseLoader` (built). Orbit selection, tap or hover a node, camera glide between orbits, pointer depth, reduced-motion support, list fallback.
+3. **Projects:** gallery of real repositories. *(Not built yet. Needs your real repo names, descriptions and demo URLs.)*
+4. **Journey:** foundations in HTML, CSS and JavaScript, then React and Tailwind CSS, now advanced React and Node.js, next 3D and motion.
+5. **Contact:** email and social links above. *(Not built yet.)*
 
-## Component conventions
+## Install
 
-- All 3D components are `'use client'`; wrapped with `next/dynamic` (`ssr: false`) to avoid hydration errors and browser-only APIs during server rendering.
-- `SkillUniverseLoader` detects WebGL, falls back to an accessible HTML skill list on weak devices or when WebGL is missing.
-- `prefers-reduced-motion` is respected: animations disabled, camera uses direct cuts instead of lerp.
-- Keyboard navigation: orbit buttons are `<button type="button">` with `aria-pressed`, focus-visible rings.
-- Touch: canvas uses `touchAction="pan-y"`; drag rotates the universe on mobile.
-- No fabricated personal information or project achievements.
+```bash
+npm install three @react-three/fiber @react-three/drei framer-motion
+npm install -D @types/three
+```
 
-## File layout (portfolio/)
+Skip any package your project already has. `@react-three/fiber` v8 pairs with React 18, v9 with React 19.
+
+## Use
+
+Copy the files into your project, keeping the `@/data/skills` import path valid for your alias:
 
 ```
-portfolio/
-├── next.config.js
-├── tailwind.config.ts
-├── tsconfig.json
-├── package.json
-├── app/
-│   ├── layout.tsx
-│   ├── page.tsx
-│   └── globals.css
-├── components/
-│   ├── Hero.tsx
-│   ├── SkillUniverse.tsx
-│   ├── SkillUniverseLoader.tsx
-│   ├── ProjectGallery.tsx
-│   ├── Journey.tsx
-│   └── Contact.tsx
-├── data/
-│   └── skills.ts
-└── lib/
-    └── utils.ts
+data/skills.ts
+components/SkillUniverse.tsx
+components/SkillUniverseLoader.tsx
 ```
+
+```tsx
+import SkillUniverseLoader from '@/components/SkillUniverseLoader';
+
+export default function SkillsSection() {
+  return (
+    <section id="skills" className="mx-auto max-w-5xl px-4 py-24">
+      <h2 className="text-3xl font-bold text-[#F5F7FF]">Skills</h2>
+      <p className="mt-2 text-[#9AA6BD]">What I work with, and what I am still learning.</p>
+      <div className="mt-8"><SkillUniverseLoader /></div>
+    </section>
+  );
+}
+```
+
+If your project uses the Pages Router or plain React, remove `'use client'` and swap `next/dynamic` for `React.lazy` with `Suspense`.
 
 ## Run and deploy
 
 ```bash
-cd portfolio
-npm install
-npm run dev      # local dev at http://localhost:3000
+npm run dev      # local
 npm run lint
-npm run build    # type check + production build
-npm start        # production server
+npm run build    
 ```
 
 Deploy by pushing to GitHub and importing the repo in Vercel. No environment variables or secrets are needed.
 
 ## Placeholders to fill
 
-- Project names, descriptions, repo links and demo links in `components/ProjectGallery.tsx`
+- Project names, descriptions, repo links and demo links
 - Which skills are "learning" (edit `learning: true` in `data/skills.ts`)
-- Optional profile photo in `components/Hero.tsx`
+- Optional profile photo

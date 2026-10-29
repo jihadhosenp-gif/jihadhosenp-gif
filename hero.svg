@@ -1,9 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" role="img" aria-labelledby="t d"><title id="t">Jihad Hosen — Full-Stack Developer</title><desc id="d">A cinematic wireframe core with orbit rings and spatial typography on a deep-ink background.</desc><defs><style>
-.ring{animation:flow 30s linear infinite}
-.core{animation:spin 48s linear infinite}
-.pulse{animation:pulse 4s ease-in-out infinite}
-@keyframes flow{to{stroke-dashoffset:-400}}
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 400" width="1000" height="400" role="img" aria-labelledby="t d" xmlns:c2pa="http://c2pa.org/manifest"><metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTo3ODE4OGNhNC01ODNlLTRmMGQtYmM3MC1kOWEyOWI0MGVjMWUAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaA9Z6NQCvSbSDote5mwwNRQAAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDpkMTU0NjE0ZC03ZjIwLTQxY2MtOTYzNC0zZTc1NDEwYjc2MjdscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNoVaj3Dw/+RtbyGqhJhd2QqQAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggfFmyCLbDyiNBs+s7ph6Oiu8QG9LDVqtPTO17MwFwQYSkZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaGCbV7QRn4SVjhCTkS2Qr3IAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRNAAAAAAAAAAAAAAAAAGRoYXNoWCAWbIQEmTde8H64XvISnZ2RJGEjPhxhCjjmKWN2IbC+EWRuYW1lbmp1bWJmIG1hbmlmZXN0amV4Y2x1c2lvbnOBomVzdGFydBi5Zmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOjc4MTg4Y2E0LTU4M2UtNGYwZC1iYzcwLWQ5YTI5YjQwZWMxZS9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOjNkMTM0ZWMyLTljNjktNGUxMy05MTkzLWJhNjI1YTRhMGQ5N3JjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCB8WbIItsPKI0Gz6zumHo6K7xAb0sNWq09M7XszAXBBhKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggXTsjTQD4W/gtk+FuhmRkEq+xzaiMQsNlk0KDdNcqfGmiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggxGIFfVhh98inHVTpRRlsPeiJUOBMdOXQtCc9jkW7XcJ0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQEJhLqk7tRPJ2geQ4UuAwGQlDS6VquoEl3U0rWazT2H3s6IhxhjLMPV/9US3bfDJhbvSaUN4TKsxtsVdoiWEe4Y=</c2pa:manifest></metadata>
+<title id="t">Jihad Hosen, Full-Stack Developer</title>
+<desc id="d">A wireframe core surrounded by orbit rings beside the name Jihad Hosen.</desc>
+<defs><style>
+.core{transform-box:fill-box;transform-origin:center;animation:spin 48s linear infinite}
+.ring{stroke-dasharray:3 9;animation:flow 14s linear infinite}
+.ring2{stroke-dasharray:2 7;animation:flow 22s linear infinite reverse}
+.pulse{animation:pulse 3.6s ease-in-out infinite}
+.tw{animation:tw 5s ease-in-out infinite}
 @keyframes spin{to{transform:rotate(360deg)}}
-@keyframes pulse{0%,100%{opacity:.4}50%{opacity:1}}
-@media (prefers-reduced-motion: reduce){*{animation:none!important}}
-</style><radialGradient id="g" cx="72%" cy="48%" r="50%"><stop offset="0" stop-color="#7C5CFF" stop-opacity=".28"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></radialGradient><filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect width="1000" height="400" rx="14" fill="#070A12"/><rect width="1000" height="400" rx="14" fill="url(#g)"/><circle cx="300" cy="70" r="0.7" fill="#F5F7FF" opacity=".2"/><circle cx="620" cy="140" r="0.9" fill="#F5F7FF" opacity=".45"/><circle cx="150" cy="180" r="0.6" fill="#F5F7FF" opacity=".18"/><circle cx="920" cy="290" r="0.8" fill="#F5F7FF" opacity=".35"/><circle cx="410" cy="330" r="0.7" fill="#F5F7FF" opacity=".3"/><circle cx="750" cy="45" r="0.6" fill="#F5F7FF" opacity=".28"/><g fill="none" stroke-width="1.2" filter="url(#glow)"><ellipse class="ring" cx="760" cy="205" rx="200" ry="70" stroke="#00E5FF" stroke-dasharray="2 8" opacity=".8"/><ellipse class="ring" cx="760" cy="205" rx="150" ry="52" stroke="#7C5CFF" stroke-dasharray="3 9" opacity=".9"/></g><circle class="pulse" cx="960" cy="205" r="5" fill="#00E5FF"/><circle class="pulse" cx="620" cy="205" r="4" fill="#7C5CFF" style="animation-delay:1.2s"/><circle class="pulse" cx="760" cy="159" r="3.5" fill="#B8FF6A" style="animation-delay:2.1s"/><g class="core" fill="none" stroke="#F5F7FF" stroke-width="1.2" stroke-linejoin="round" filter="url(#glow)"><polygon points="760,135 822,170 822,240 760,275 698,240 698,170" stroke="#00E5FF"/><g opacity=".55" stroke="#7C5CFF"><line x1="760" y1="135" x2="822" y2="240"/><line x1="822" y1="170" x2="760" y2="275"/><line x1="822" y1="240" x2="698" y2="240"/><line x1="760" y1="275" x2="698" y2="170"/><line x1="698" y1="240" x2="760" y2="135"/><line x1="698" y1="170" x2="822" y2="170"/></g><g opacity=".8"><line x1="760" y1="205" x2="760" y2="135"/><line x1="760" y1="205" x2="822" y2="240"/><line x1="760" y1="205" x2="698" y2="240"/></g></g><circle cx="760" cy="205" r="7" fill="#B8FF6A" filter="url(#glow)"/><g font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif"><text x="56" y="168" font-size="66" font-weight="800" fill="#F5F7FF" letter-spacing="-2">Jihad Hosen</text><text x="58" y="214" font-size="24" font-weight="600" fill="#00E5FF">Full-Stack Developer</text><text x="58" y="258" font-size="17" fill="#9AA6BD">Interfaces that respond. Backends that hold.</text></g><g font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" fill="#9AA6BD"><circle class="pulse" cx="62" cy="326" r="4.5" fill="#B8FF6A"/><text x="76" y="331">Learning advanced React and Node.js</text><text x="58" y="358">React, Next.js, Tailwind CSS, Node.js, MongoDB</text></g></svg>
+@keyframes flow{to{stroke-dashoffset:-240}}
+@keyframes pulse{0%,100%{opacity:.35}50%{opacity:1}}
+@keyframes tw{0%,100%{opacity:.1}50%{opacity:.7}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}</style>
+<radialGradient id="g" cx="76%" cy="52%" r="45%"><stop offset="0" stop-color="#7C5CFF" stop-opacity=".30"/><stop offset="1" stop-color="#7C5CFF" stop-opacity="0"/></radialGradient>
+<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect width="1000" height="400" rx="14" fill="#070A12"/>
+<rect width="1000" height="400" rx="14" fill="url(#g)"/>
+<circle class="tw" cx="326.7" cy="65.9" r="0.6" fill="#F5F7FF" opacity="0.18"/>
+<circle cx="535.3" cy="148.4" r="0.6" fill="#F5F7FF" opacity="0.47"/>
+<circle cx="219.3" cy="41.0" r="1.3" fill="#F5F7FF" opacity="0.17"/>
+<circle cx="97.3" cy="171.0" r="0.6" fill="#F5F7FF" opacity="0.48"/>
+<circle cx="628.5" cy="231.9" r="0.6" fill="#F5F7FF" opacity="0.35"/>
+<circle cx="398.3" cy="382.9" r="0.6" fill="#F5F7FF" opacity="0.34"/>
+<circle cx="139.0" cy="168.9" r="0.6" fill="#F5F7FF" opacity="0.35"/>
+<circle class="tw" cx="559.3" cy="269.9" r="0.6" fill="#F5F7FF" opacity="0.35"/>
+<circle cx="636.7" cy="151.0" r="0.6" fill="#F5F7FF" opacity="0.35"/>
+<circle cx="617.1" cy="198.6" r="1.3" fill="#F5F7FF" opacity="0.42"/>
+<circle cx="466.2" cy="362.6" r="1" fill="#F5F7FF" opacity="0.25"/>
+<circle cx="789.7" cy="276.4" r="0.8" fill="#F5F7FF" opacity="0.18"/>
+<circle cx="303.4" cy="198.1" r="1" fill="#F5F7FF" opacity="0.41"/>
+<circle cx="291.3" cy="384.4" r="0.6" fill="#F5F7FF" opacity="0.33"/>
+<circle class="tw" cx="170.3" cy="139.3" r="1.3" fill="#F5F7FF" opacity="0.30"/>
+<circle cx="954.6" cy="37.8" r="1" fill="#F5F7FF" opacity="0.27"/>
+<circle cx="352.6" cy="198.7" r="1.3" fill="#F5F7FF" opacity="0.17"/>
+<circle cx="100.1" cy="111.7" r="0.6" fill="#F5F7FF" opacity="0.17"/>
+<circle cx="698.3" cy="256.5" r="1.3" fill="#F5F7FF" opacity="0.25"/>
+<circle cx="387.6" cy="264.8" r="0.6" fill="#F5F7FF" opacity="0.48"/>
+<circle cx="357.8" cy="242.6" r="1.3" fill="#F5F7FF" opacity="0.17"/>
+<circle class="tw" cx="763.9" cy="57.7" r="0.8" fill="#F5F7FF" opacity="0.29"/>
+<circle cx="910.1" cy="198.7" r="0.8" fill="#F5F7FF" opacity="0.31"/>
+<circle cx="548.6" cy="347.2" r="1.3" fill="#F5F7FF" opacity="0.45"/>
+<circle cx="282.0" cy="167.5" r="1" fill="#F5F7FF" opacity="0.39"/>
+<circle cx="382.4" cy="96.6" r="0.6" fill="#F5F7FF" opacity="0.21"/>
+<circle cx="236.2" cy="97.6" r="1.3" fill="#F5F7FF" opacity="0.44"/>
+<circle cx="187.4" cy="116.3" r="0.8" fill="#F5F7FF" opacity="0.30"/>
+<circle class="tw" cx="371.3" cy="225.5" r="0.8" fill="#F5F7FF" opacity="0.39"/>
+<circle cx="515.2" cy="245.2" r="0.6" fill="#F5F7FF" opacity="0.31"/>
+<circle cx="865.0" cy="373.5" r="1.3" fill="#F5F7FF" opacity="0.29"/>
+<circle cx="395.8" cy="192.9" r="1.3" fill="#F5F7FF" opacity="0.17"/>
+<circle cx="74.3" cy="88.2" r="0.8" fill="#F5F7FF" opacity="0.19"/>
+<circle cx="599.1" cy="47.3" r="0.8" fill="#F5F7FF" opacity="0.34"/>
+<circle cx="941.8" cy="243.7" r="0.6" fill="#F5F7FF" opacity="0.46"/>
+<circle class="tw" cx="612.2" cy="65.0" r="1" fill="#F5F7FF" opacity="0.48"/>
+<circle cx="600.6" cy="190.1" r="0.6" fill="#F5F7FF" opacity="0.45"/>
+<circle cx="985.2" cy="186.9" r="1.3" fill="#F5F7FF" opacity="0.26"/>
+<circle cx="149.8" cy="295.9" r="1" fill="#F5F7FF" opacity="0.32"/>
+<circle cx="689.0" cy="206.3" r="0.8" fill="#F5F7FF" opacity="0.48"/>
+<circle cx="527.8" cy="64.3" r="0.6" fill="#F5F7FF" opacity="0.42"/>
+<circle cx="301.3" cy="254.9" r="0.6" fill="#F5F7FF" opacity="0.39"/>
+<circle class="tw" cx="264.9" cy="148.8" r="0.8" fill="#F5F7FF" opacity="0.27"/>
+<circle cx="227.2" cy="216.0" r="1" fill="#F5F7FF" opacity="0.37"/>
+<circle cx="611.4" cy="310.7" r="0.8" fill="#F5F7FF" opacity="0.43"/>
+<circle cx="813.2" cy="292.1" r="0.8" fill="#F5F7FF" opacity="0.22"/>
+<circle cx="492.9" cy="288.7" r="0.6" fill="#F5F7FF" opacity="0.43"/>
+<circle cx="472.7" cy="82.4" r="1" fill="#F5F7FF" opacity="0.31"/>
+<circle cx="930.0" cy="387.4" r="1" fill="#F5F7FF" opacity="0.18"/>
+<circle class="tw" cx="108.5" cy="188.5" r="1" fill="#F5F7FF" opacity="0.22"/>
+<circle cx="622.1" cy="353.7" r="0.6" fill="#F5F7FF" opacity="0.32"/>
+<circle cx="650.5" cy="315.1" r="0.6" fill="#F5F7FF" opacity="0.44"/>
+<circle cx="126.0" cy="157.2" r="0.8" fill="#F5F7FF" opacity="0.32"/>
+<circle cx="183.7" cy="311.0" r="1" fill="#F5F7FF" opacity="0.18"/>
+<circle cx="939.0" cy="285.2" r="1.3" fill="#F5F7FF" opacity="0.29"/>
+<circle cx="939.6" cy="286.3" r="0.8" fill="#F5F7FF" opacity="0.50"/>
+<circle class="tw" cx="35.1" cy="234.9" r="1.3" fill="#F5F7FF" opacity="0.43"/>
+<circle cx="151.8" cy="325.4" r="1.3" fill="#F5F7FF" opacity="0.38"/>
+<circle cx="352.8" cy="218.7" r="0.8" fill="#F5F7FF" opacity="0.16"/>
+<circle cx="794.6" cy="286.9" r="0.6" fill="#F5F7FF" opacity="0.33"/>
+<circle cx="926.7" cy="174.6" r="0.8" fill="#F5F7FF" opacity="0.44"/>
+<circle cx="215.7" cy="104.7" r="1" fill="#F5F7FF" opacity="0.33"/>
+<circle cx="759.5" cy="133.2" r="1.3" fill="#F5F7FF" opacity="0.44"/>
+<circle class="tw" cx="67.9" cy="292.1" r="1.3" fill="#F5F7FF" opacity="0.38"/>
+<circle cx="810.0" cy="206.4" r="0.8" fill="#F5F7FF" opacity="0.34"/>
+<circle cx="523.1" cy="15.2" r="1.3" fill="#F5F7FF" opacity="0.42"/>
+<circle cx="606.8" cy="306.0" r="0.8" fill="#F5F7FF" opacity="0.21"/>
+<circle cx="473.9" cy="286.5" r="0.6" fill="#F5F7FF" opacity="0.26"/>
+<circle cx="518.1" cy="221.3" r="0.6" fill="#F5F7FF" opacity="0.46"/>
+<circle cx="63.9" cy="81.5" r="0.6" fill="#F5F7FF" opacity="0.42"/>
+<g transform="rotate(-18 760 205)" fill="none" stroke-width="1.2" filter="url(#glow)">
+<ellipse class="ring" cx="760" cy="205" rx="190" ry="62" stroke="#00E5FF" opacity=".75"/>
+<ellipse class="ring2" cx="760" cy="205" rx="140" ry="46" stroke="#7C5CFF" opacity=".9"/>
+<ellipse cx="760" cy="205" rx="100" ry="32" stroke="#B8FF6A" opacity=".35"/>
+<circle class="pulse" cx="950" cy="205" r="5" fill="#00E5FF" stroke="none"/>
+<circle class="pulse" cx="620" cy="205" r="4" fill="#7C5CFF" stroke="none" style="animation-delay:1.2s"/>
+<circle class="pulse" cx="760" cy="159" r="3.5" fill="#B8FF6A" stroke="none" style="animation-delay:2.1s"/>
+</g>
+<g class="core" fill="none" stroke="#F5F7FF" stroke-width="1.2" stroke-linejoin="round" filter="url(#glow)">
+<polygon points="760.0,135.0 820.6,170.0 820.6,240.0 760.0,275.0 699.4,240.0 699.4,170.0" stroke="#00E5FF"/><g opacity=".55" stroke="#7C5CFF"><line x1="760.0" y1="135.0" x2="820.6" y2="240.0"/><line x1="820.6" y1="170.0" x2="760.0" y2="275.0"/><line x1="820.6" y1="240.0" x2="699.4" y2="240.0"/><line x1="760.0" y1="275.0" x2="699.4" y2="170.0"/><line x1="699.4" y1="240.0" x2="760.0" y2="135.0"/><line x1="699.4" y1="170.0" x2="820.6" y2="170.0"/></g><g opacity=".8"><line x1="760" y1="205" x2="760.0" y2="135.0"/><line x1="760" y1="205" x2="820.6" y2="240.0"/><line x1="760" y1="205" x2="699.4" y2="240.0"/></g>
+</g>
+<circle cx="760" cy="205" r="7" fill="#B8FF6A" filter="url(#glow)"/>
+<g font-family="'Segoe UI',Inter,system-ui,-apple-system,Helvetica,Arial,sans-serif">
+<text x="56" y="168" font-size="68" font-weight="800" fill="#F5F7FF" letter-spacing="-2">Jihad Hosen</text>
+<text x="58" y="214" font-size="25" font-weight="600" fill="#00E5FF">Full-Stack Developer</text>
+<text x="58" y="258" font-size="18" fill="#9AA6BD">Interfaces that respond. Backends that hold.</text>
+</g>
+<g font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="14" fill="#9AA6BD">
+<circle class="pulse" cx="62" cy="324" r="4.5" fill="#B8FF6A"/>
+<text x="76" y="329">Learning advanced React and Node.js</text>
+<text x="58" y="356">React, Next.js, Tailwind CSS, Node.js, MongoDB</text>
+</g></svg>
