@@ -4,6 +4,9 @@
 
 <br/>
 
+<a href="https://github.com/jihadhosenp-gif"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=00E5FF&center=true&vCenter=true&width=640&lines=Learning+advanced+React;Building+backends+with+Node.js;Turning+ideas+into+projects;Coding+is+my+passion" alt="Typing animation: learning advanced React, building backends with Node.js, turning ideas into projects" /></a>
+
+<br/><br/>
 <a href="https://github.com/jihadhosenp-gif"><img src="https://komarev.com/ghpvc/?username=jihadhosenp-gif&label=Profile%20views&color=7C5CFF&style=flat" alt="Profile views" /></a>
 
 </div>
@@ -81,6 +84,42 @@ All repositories: [github.com/jihadhosenp-gif](https://github.com/jihadhosenp-gi
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=jihadhosenp-gif&bg_color=070A12&color=9AA6BD&line=7C5CFF&point=00E5FF&area=true&area_color=7C5CFF&hide_border=true" alt="Contribution graph" width="100%" />
 
 </div>
+
+## Fun corner
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1321&quote_color=F5F7FF&author_color=00E5FF" alt="Random developer quote" />
+
+</div>
+
+<details>
+<summary>A few things about how I work</summary>
+
+- I learn by building: every new concept goes into a small project.
+- I read error messages twice before asking for help.
+- I like interfaces that feel alive, which is why I'm exploring 3D and motion.
+- Coding is my passion, and I enjoy learning new tech every day.
+
+</details>
+
+<details>
+<summary>Currently on my list</summary>
+
+- [ ] Ship a full-stack project with React, Node.js and MongoDB
+- [ ] Build my first Three.js scene
+- [ ] Write my first article
+- [x] Create this profile
+
+</details>
+
+<!-- Contribution snake: after adding .github/workflows/snake.yml, run it once from the Actions tab, then uncomment.
+<div align="center">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jihadhosenp-gif/jihadhosenp-gif/output/github-snake-dark.svg" />
+<img alt="Contribution snake" src="https://raw.githubusercontent.com/jihadhosenp-gif/jihadhosenp-gif/output/github-snake.svg" />
+</picture>
+</div> -->
 
 ## Connect
 

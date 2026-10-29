@@ -85,7 +85,7 @@ If your project uses the Pages Router or plain React, remove `'use client'` and 
 ```bash
 npm run dev      # local
 npm run lint
-npm run build    
+npm run build    # type check and production build
 ```
 
 Deploy by pushing to GitHub and importing the repo in Vercel. No environment variables or secrets are needed.
