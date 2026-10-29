@@ -72,12 +72,13 @@ Fun fact: coding is my passion, and I enjoy learning new tech every day.
 
 All repositories: [github.com/jihadhosenp-gif](https://github.com/jihadhosenp-gif?tab=repositories)
 
+<div align="center">
+<img src="assets/now.svg" alt="Right now: learning advanced React and Node.js, building full-stack projects, exploring Three.js and motion" width="100%" />
+</div>
+
 ## GitHub activity
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jihadhosenp-gif&show_icons=true&hide_border=true&bg_color=0D1321&title_color=7C5CFF&icon_color=00E5FF&text_color=F5F7FF" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihadhosenp-gif&layout=compact&hide_border=true&bg_color=0D1321&title_color=7C5CFF&text_color=F5F7FF" alt="Top languages" />
 
 <img src="https://streak-stats.demolab.com?user=jihadhosenp-gif&theme=transparent&background=0D1321&ring=7C5CFF&fire=B8FF6A&currStreakLabel=00E5FF&sideLabels=9AA6BD&currStreakNum=F5F7FF&sideNums=F5F7FF&dates=9AA6BD&stroke=1B2438&hide_border=true" alt="Contribution streak" />
 

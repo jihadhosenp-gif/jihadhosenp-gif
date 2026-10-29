@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 260" width="800" height="260" role="img" aria-label="Right now: learning advanced React and Node.js backend, building full-stack projects, exploring Three.js and motion libraries">
+<style>
+.c{animation:type 2s steps(46) forwards}
+.c1{animation-delay:.4s}.c2{animation-delay:2.6s}.c3{animation-delay:4.8s}.c4{animation-delay:7s}
+.cur{opacity:0;animation:blink 1s steps(1) infinite 9.2s}
+@keyframes type{to{transform:translateX(740px)}}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+@media (prefers-reduced-motion: reduce){.c{display:none}.cur{animation:none;opacity:1}}
+</style>
+<rect x="1" y="1" width="798" height="258" rx="14" fill="#0D1321" stroke="#1B2438"/>
+<circle cx="28" cy="28" r="5" fill="#7C5CFF"/><circle cx="48" cy="28" r="5" fill="#00E5FF"/><circle cx="68" cy="28" r="5" fill="#B8FF6A"/>
+<text x="92" y="33" font-family="ui-monospace,Menlo,Consolas,monospace" font-size="13" fill="#9AA6BD">jihad@profile ~ now</text>
+<g font-family="ui-monospace,'SF Mono','Cascadia Code',Menlo,Consolas,monospace" font-size="18" fill="#F5F7FF">
+<text x="40" y="85"><tspan fill="#B8FF6A">learning</tspan>   Advanced React, Node.js backend</text>
+<text x="40" y="123"><tspan fill="#00E5FF">building</tspan>   Full-stack projects with React, Node.js, MongoDB</text>
+<text x="40" y="161"><tspan fill="#7C5CFF">exploring</tspan>  Three.js, Framer Motion, GSAP</text>
+<text x="40" y="199"><tspan fill="#9AA6BD">ask me</tspan>     HTML, CSS, JavaScript, React, Tailwind CSS</text>
+<text x="40" y="237" fill="#00E5FF">›</text>
+</g>
+<rect class="cur" x="60" y="222" width="10" height="19" fill="#00E5FF"/>
+<rect class="c c1" x="30" y="64" width="740" height="30" fill="#0D1321"/>
+<rect class="c c2" x="30" y="102" width="740" height="30" fill="#0D1321"/>
+<rect class="c c3" x="30" y="140" width="740" height="30" fill="#0D1321"/>
+<rect class="c c4" x="30" y="178" width="740" height="30" fill="#0D1321"/>
+</svg>
